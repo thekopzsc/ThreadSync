@@ -1,0 +1,2 @@
+# ThreadSync
+qt platform
